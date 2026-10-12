@@ -55,3 +55,8 @@ pre: " <b> 1.1. </b> "
 
 * Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
 * ...
+### GitHub Practice
+
+- Objective: Understand repositories, commits, branches, and pull requests.
+- Activities: Explore the AWS reporting structure and edit Markdown in a separate branch.
+- Key takeaway: Use Git for version control and review changes before merging into the main branch.
